@@ -18,7 +18,7 @@ public class Main {
 }
 
 /**
- * Calculator
+ *Calculator
  */
 final class Calculator   {
    private static String firstValue;
